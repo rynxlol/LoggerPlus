@@ -9,7 +9,7 @@ These are available games for moderators to access out of the box.
 
 | Available Games |
 | -- |
-| [LGBTQ+ Hangout](https://github.com) |
+| [LGBTQ+ Hangout](https://github.com/rynxlol/LoggerPlus/blob/main/Games/LGBTQ%2B%20Hangout.lua) |
 
 Don't see your game? [Make it possible here.](https://github.com/rynxlol/LoggerPlus/blob/main/CREATE.md)
 
