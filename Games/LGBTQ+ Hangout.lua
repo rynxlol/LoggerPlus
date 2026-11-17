@@ -1,4 +1,4 @@
--- COPY THIS: 
+-- COPY THIS: loadstring(game:HttpGet("https://github.com/rynxlol/LoggerPlus/blob/main/Games/LGBTQ%2B%20Hangout.lua"))()
 -- LGBTQ+ Hangout Script For Moderators by Rynx
 
 local loggerPlus = loadstring(game:HttpGet("https://github.com/rynxlol/LoggerPlus/blob/main/main.lua"))()
