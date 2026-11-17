@@ -11,6 +11,8 @@ These are available games for moderators to access out of the box.
 | -- |
 | [LGBTQ+ Hangout](https://github.com) |
 
+Don't see your game? [Create one from here.](https://github.com/rynxlol/LoggerPlus/blob/main/CREATE.md)
+
 ---
 
 ## License
