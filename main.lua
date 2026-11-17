@@ -1,4 +1,4 @@
--- RUN THIS: loadstring(game:HttpGet(""))()
+-- RUN THIS: loadstring(game:HttpGet("https://github.com/rynxlol/LoggerPlus/blob/main/main.lua"))()
 -- LoggerPlus by Rynx
 
 local runService = game:GetService("RunService")
